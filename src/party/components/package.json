@@ -1,0 +1,14 @@
+{
+  "title": "Material demo",
+  "description": "https://github.com/mui-org/material-ui/blob/master/docs/src/pages/demos/expansion-panels/SimpleExpansionPanel.js",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "latest",
+    "downshift": "3.1.5",
+    "lodash": "4.17.11",
+    "material-ui-icons": "1.0.0-beta.36",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
